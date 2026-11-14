@@ -1,0 +1,13 @@
+# 红果短剧广告拦截规则 (QX格式)
+HOST-SUFFIX,hongguoapp.com,REJECT
+HOST-SUFFIX,hongguosdk.com,REJECT
+HOST-SUFFIX,pangolin-sdk-toutiao.com,REJECT
+HOST-SUFFIX,pglstatp-toutiao.com,REJECT
+HOST-KEYWORD,ad-union-sdk,REJECT
+HOST-KEYWORD,hongguo.ad,REJECT
+HOST-SUFFIX,ad.pangle.cn,REJECT
+HOST-SUFFIX,ad.pangolin.cn,REJECT
+HOST-SUFFIX,zijieapi.com,REJECT
+HOST-SUFFIX,hongguo.com,DIRECT
+HOST-SUFFIX,byteimg.com,DIRECT
+HOST-SUFFIX,pstatp.com,DIRECT
